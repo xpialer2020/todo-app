@@ -1,0 +1,16 @@
+.main-login {
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+    margin: 10px auto;
+    background-image: linear-gradient(#fff, #fff, #dfe6e9);
+    box-shadow: 2px 2px 2px 2px #636e72;
+}
+input {
+    width: 200px;
+    height: 20px;
+}
+form{
+    padding: 10px 5px;
+    margin: auto;
+}
